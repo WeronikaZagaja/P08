@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606166771 source:c:\users\weron\desktop\studia\algorytmy i struktury danych\nowy folder\projekt 1\main.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+
